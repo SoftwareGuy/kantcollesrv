@@ -1,15 +1,21 @@
 # kantcollesrv 
-SoftwareGuy's take on a Open Source KanColle server (PHP/MySQL).
+SoftwareGuy's take on a Open Source KanColle server (PHP/MySQL). Uses some nginx black magic as well.
 
 # What?
 This is my own implementation of DMM's server API for the game called "Kantai Collection". Basically, it's a server that allows you to play the game without the need of using DMM's own server and/or needing a DMM account.
 
 The project started as a fork of kcsrv (https://github.com/KanColleTool/kcsrv). I then adapted it into PHP, and with the KCT documentation and WireShark/Chrome Inspector I fleshed out the missing endpoints to make it boot. This was a Xmas '14 project, I started thinking "well, why the hell not make it public?"
 
+I'm using nginx because it's much better than Apache 2.x, although Apache 2.4 has got it's improvements.
+
 # Is there a working live example?
 I intend to setup a little server that will allow you to play on the server. This will also be handy for stress testing and handling end points, because there's a lot of stuff not implemented and you'll get game freezes or errorcats (basically a screen saying "Game Error, please reload". 
 
 # How to set up?
+Requirements:
+TODO.
+
+Brew Instructions:
 TODO.
 
 # Roadmap
