@@ -43,6 +43,6 @@ Pfft... Seriously, you have better things to do with your time.
 Let me just say this: I'm not using your assets (apart from your art, sounds and SWF data) to make money, I'm doing this for fun and as a hobby. And plus, your API is terrible, perhaps your R&D can use my code to fix your broken things?
 
 # Credits
-DMM - Base Game
-
-KCT Team & uppfinnarn - For their work on KCT and KCSrv, along with the API documentation
+* DMM - Base Game
+* KCT Team & uppfinnarn - For their work on KCT and KCSrv, along with the API documentation
+* Salt and friends from #kancolle on Rizon - for their help decoding the names of the API shipgirl attributes
