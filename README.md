@@ -3,7 +3,7 @@ SoftwareGuy's take on a Open Source KanColle server (PHP/MySQL). Uses some nginx
 Some of the code is sloppy and/or puts extra cycles on the host, but hey it works!
 
 # Notice
-I've suspended development on this open source server due to reasons I've mentioned on my blog post.
+I've suspended development on this open source server due to reasons I've mentioned on [my blog post](http://www.coburnsdomain.com/wordpress/index.php/2015/05/02/suspending-work-on-my-opensource-kantai-collection-server-clone-kantcollesrv/)
 
 # What?
 This is my own implementation of DMM's server API for the game called "Kantai Collection". Basically, it's a server that allows you to play the game without the need of using DMM's own server and/or needing a DMM account.
